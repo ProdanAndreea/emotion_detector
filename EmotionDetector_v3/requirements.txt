@@ -1,0 +1,14 @@
+Flask==1.1.2
+ptvsd==4.3.2 # Required for debugging.
+tb_nightly==2.6.0a20210508
+tensorflow==2.2.0
+tensorflow-addons==0.10.0
+lxml==4.6.3
+tqdm==4.60.0
+seaborn==0.11.1
+pillow==8.2.0
+gunicorn==20.1.0
+numpy==1.19.5
+#opencv-python==4.5.1.48
+click==8.0.0
+requests==2.17.3
